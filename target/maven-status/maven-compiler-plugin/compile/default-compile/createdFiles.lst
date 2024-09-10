@@ -1,2 +1,6 @@
 com/market/nf/api/nf/api/Application.class
 com/market/nf/api/nf/api/controllers/NotaFiscalController.class
+com/market/nf/api/nf/api/infra/repository/NotaFiscalRepository.class
+com/market/nf/api/nf/api/infra/entities/NotaFiscal.class
+com/market/nf/api/nf/api/domain/services/NotaFiscalService.class
+com/market/nf/api/nf/api/infra/configuration/MongoDbConfiguration.class

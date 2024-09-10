@@ -1,2 +1,6 @@
 /Users/alexrocha/Documents/Development/Java/nf-api/src/main/java/com/market/nf/api/nf/api/Application.java
 /Users/alexrocha/Documents/Development/Java/nf-api/src/main/java/com/market/nf/api/nf/api/controllers/NotaFiscalController.java
+/Users/alexrocha/Documents/Development/Java/nf-api/src/main/java/com/market/nf/api/nf/api/domain/services/NotaFiscalService.java
+/Users/alexrocha/Documents/Development/Java/nf-api/src/main/java/com/market/nf/api/nf/api/infra/configuration/MongoDbConfiguration.java
+/Users/alexrocha/Documents/Development/Java/nf-api/src/main/java/com/market/nf/api/nf/api/infra/entities/NotaFiscal.java
+/Users/alexrocha/Documents/Development/Java/nf-api/src/main/java/com/market/nf/api/nf/api/infra/repository/NotaFiscalRepository.java

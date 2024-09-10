@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: nf.api
+
+mongodb:
+  connection-string: "mongodb://localhost:27017/nf-db"
+  database-name: "nf-db"
